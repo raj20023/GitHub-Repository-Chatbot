@@ -1,0 +1,47 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+*.venv
+
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Credentials
+config.json
+.env
+secrets.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+
+# Others
+.idea/
+*.bak
+*.swp
