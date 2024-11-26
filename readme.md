@@ -82,6 +82,9 @@ To run this project, ensure you have the following:
 4. **Chat with the Repository**
    - Once the repository is processed, you can ask questions about its contents in the chatbot interface.
 
+## Live Demo
+You can access the deployed version of the application here: [GitHub Repository Chatbot](https://repository-chatbot.streamlit.app/)
+
 ## Environment Variables
 The application requires the following tokens:
 - **GitHub Token**: Access to the GitHub repository.
@@ -121,4 +124,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 For any questions or feedback, please reach out to the repository owner.
-
